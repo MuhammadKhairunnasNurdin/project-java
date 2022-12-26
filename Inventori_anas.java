@@ -492,6 +492,8 @@ public class Inventori_anas {
 
         // perubahan git ke-2
 
+        // perubahan git ke-3
+
         System.out.println("\n\n````````````````````Selamat Datang Di Sistem Gudang Restoran Anas```````````````````\n\n");
 
         String[] dataKunci = {"anas", "123", "jono", "456", "tono", "789"};
